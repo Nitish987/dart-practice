@@ -2,7 +2,7 @@
 
 import 'dart:io';
 
-Map<String, Object> database() {
+Map<String, dynamic> database() {
   return {
     "amit": {
       "uid": "123qpwoeif",
